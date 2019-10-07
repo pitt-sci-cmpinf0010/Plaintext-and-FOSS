@@ -1,0 +1,6 @@
+name: cmpinf00100-week7
+dependencies:
+  - numpy
+  - matplotlib
+  - pandas
+  - vim
