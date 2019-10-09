@@ -51,7 +51,7 @@ Click this button to get started with Binder:
 
 ## Submitting your finished lab
 
-This lab is due at 11:59 PM the night before your next lab session. You'll need to fill out the repo submission form (here)[https://forms.gle/WKFD3DTnQEWfvuvT8].
+This lab is due at 11:59 PM the night before your next lab session. You'll need to fill out the repo submission form [here](https://forms.gle/WKFD3DTnQEWfvuvT8).
 
 Notes: 
 - This form is different from last week!-
