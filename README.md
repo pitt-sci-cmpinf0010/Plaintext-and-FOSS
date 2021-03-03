@@ -15,7 +15,7 @@ There are a lot of readings for this week, and they're all in the lecture notebo
 
 1. Open Jupyter Lab and start a terminal
 2. Navigate to the folder you wish to download this lab to
-3. Type in git clone https://github.com/pitt-sci-cmpinf0010/lab-6.git and hit the enter key
+3. Type in `git clone https://github.com/pitt-sci-cmpinf0010/lab-6.git` and hit the enter key
 4. This should download a folder to your local machine with the lab (it should be called lab-6)
 5. Launch the desired notebook
 
